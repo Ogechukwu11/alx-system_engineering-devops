@@ -25,6 +25,7 @@ Regex is like a secret code language for text. It helps you define patterns you'
 - [] matches any one of the characters inside.
 - ^ matches the start of a string.
 - $ matches the end of a string.
+- {} used to specify the exact number of occurrences or a range of occurrences of a character or a group of characters.
 
 ## Why Learn Regex?
 
